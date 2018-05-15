@@ -9,7 +9,7 @@ This is created to show the interaction using openweathermap API and translate t
 > npm start
 ```
 
-Install npm library react-sparklines to create graph line 
+### NPM library use to create line graph  
 
 ```
 > npm install --save react-sparklines
